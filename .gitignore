@@ -1,0 +1,13 @@
+input*
+#PyCharm
+.idea/*
+
+#Python
+*.pyc
+
+#MacOS
+*~
+.DS_Store
+
+# C
+*.o
